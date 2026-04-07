@@ -27,7 +27,7 @@ The ADECEES framework operates through three core components:
 
 ## Data Requirements
 
-This framework is built to process satellite-derived XCO2 maps. The default implementation is configured for OCO-2 observational data processed to a 0.03° × 0.04° gridded resolution. The dataset can be found [here](https://gd-xco2.dsi.ic.ac.uk/datasets). 
+This framework is built to process satellite-derived XCO2 maps. The default implementation is configured for OCO-2 observational data processed to a 0.03° × 0.04° gridded resolution. The dataset can be found [here](https://gd-xco2.dsi.ic.ac.uk/datasets).  
 Link to the dataset paper: [paper](https://doi.org/10.3390/rs17091617)
 
 ## Installation
@@ -41,8 +41,6 @@ pip install -r requirements.txt
 ```
 
 ## Quick Start
-
-*(Provide a brief example of how to run the pipeline. Below is placeholder code that you can adjust to match your actual script structure.)*
 
 Training using available configuration and sample data
 ```bash
